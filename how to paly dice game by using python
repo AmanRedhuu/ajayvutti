@@ -33,3 +33,4 @@ if z == 'yes' or z == 'y':
     print(roll_a_dice(z))
 else:
     print('come if you wanna play')
+print("Thanks for playing")
